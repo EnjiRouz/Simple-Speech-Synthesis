@@ -9,3 +9,11 @@
 Для установки PyAudio можно найти и скачать нужный в зависимости от архитектуры и версии Python whl-файл [здесь](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio) в папку с проектом. После чего его можно установить при помощи подобной команды:
 
 `pip install PyAudio-0.2.11-cp38-cp38m-win_amd64.whl`
+
+Пример ввода и вывода из консоли:
+```
+Enter a word or phrase: tea
+['T', 'IY']
+```
+
+[Пример сгенерированного аудио](https://github.com/EnjiRouz/Simple-Speech-Synthesis/blob/master/generated.wav)
