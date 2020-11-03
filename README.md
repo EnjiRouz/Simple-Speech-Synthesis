@@ -16,4 +16,4 @@ Enter a word or phrase: tea
 ['T', 'IY']
 ```
 
-[Пример сгенерированного аудио](https://github.com/EnjiRouz/Simple-Speech-Synthesis/blob/master/generated.wav)
+[Пример сгенерированного аудио](https://enjirouz.github.io/Simple-Speech-Synthesis/generated.wav)
